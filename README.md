@@ -8,11 +8,11 @@ My name is Anna Nilsson-Niia and I am a .NET systemdeveloper who is studying Hyb
 - 💻 Skills: .NET/C#, CleanCode, DevOps, REST API
 - 🎲 Interests: Coding, playing board games and golf ⛳
 
-## Kontakt
+<!--- ## Kontakt
 
 - LinkedIn
 - Twitter
-- E-post
+- E-post --->
 
 Thank you for visiting my profile! 🚀
 
