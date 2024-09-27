@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @annanilssonniia
-- 👀 I’m interested in programming, board games, golf
-- 🌱 I’m currently learning Dart/Flutter
-<!--- 💞️ I’m looking to collaborate on ... --->
-<!--- 📫 How to reach me ... --->
-<!--- 😄 Pronouns: ... --->
-<!--- ⚡ Fun fact: ... --->
+# Hello! 👋
 
-<!---
-annanilssonniia/annanilssonniia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Anna Nilsson-Niia and I am a .NET systemdeveloper who is studying Hybriddevelopment with Flutter. I love to code and have a big interest in tech and innovation.
+
+## About me
+
+- 📚 Studying: Hybriddevelopment with Flutter
+- 💻 Skills: .NET/C#, CleanCode, DevOps, REST API
+- 🎲 Interests: Coding, playing board games and golf ⛳
+
+## Kontakt
+
+- LinkedIn
+- Twitter
+- E-post
+
+Thank you for visiting my profile! 🚀
+
